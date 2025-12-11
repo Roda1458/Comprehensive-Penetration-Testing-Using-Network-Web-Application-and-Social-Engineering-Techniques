@@ -1,0 +1,2 @@
+# Comprehensive-Penetration-Testing-Using-Network-Web-Application-and-Social-Engineering-Techniques
+This project demonstrates end-to-end penetration testing across network, web, and human layers using Kali Linux, Metasploitable2, DVWA, and SEToolkit. It identifies and exploits real vulnerabilities such as vsftpd 2.3.4, SQL Injection, and phishing attacks to understand practical cybersecurity risks and defense strategies.
